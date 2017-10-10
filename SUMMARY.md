@@ -1,4 +1,11 @@
-# Summary
+## Preregistration
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [Why preregister research?](preregistration/why.md)
+* [How can I preregister a study?](preregistration/how.md)
+* [How can I use preregistration in class?](preregistration/teaching.md)
+
+
+
+
+
+
