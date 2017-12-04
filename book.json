@@ -1,3 +1,6 @@
 {
-    "plugins": [ "theme-faq" ]
+    "plugins": [ "theme-faq" ],
+    "styles": {
+        "website": "_styles/website.css"
+    }
 }

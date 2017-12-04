@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header color scheme */
+.faq-header, .faq-navbar {
+    color: white;
+    background-color: #0074D9;
+}
+.navbar {
+    border-radius: 0;
+}
+.faq-navbar {
+    color: rgba(255, 255, 255, 0.8);
+}
+.faq-header {
+    border-bottom-color: #001f3f;
+}
+.faq-header h1, .faq-header .description {
+    color: white;
+}
+.faq-header a, .navbar a, .navbar a.navbar-brand {
+    color: rgba(255, 255, 255, 0.8);
+}
+.navbar a:hover, .navbar a:focus,
+.navbar a.navbar-brand:hover, .navbar a.navbar-brand:focus {
+    color: rgba(255, 255, 255, 1);
+}
+
+/* Search bar */
+#book-search-input input {
+    color: black;
+    border-radius: 4px;
+}
+
+/* Panels */
+.panel {
+    border-radius: 3px;
+}
+.panel-heading {
+    padding: 15px;
+}
+.panel-body {
+    padding-bottom: 30px;
+}
+h3.panel-title {
+    letter-spacing: 0.075rem;
+    font-size: 1.25rem;
+}
+.panel.panel-default .list-group-item > i.fa {
+    padding-right: 0.5rem;
+}
+
+/* Footer */
+.faq-page-footer {
+    font-size: 10px;
+}
