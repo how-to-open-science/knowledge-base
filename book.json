@@ -1,5 +1,9 @@
 {
-    "plugins": [ "theme-faq" ],
+    "plugins": [ 
+        "theme-faq",
+        "-fontsettings",
+        "-sharing"
+    ],
     "styles": {
         "website": "_styles/website.css"
     }

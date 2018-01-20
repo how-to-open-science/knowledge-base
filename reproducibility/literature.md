@@ -1,0 +1,4 @@
+After more than half a decade of discussion, the literature on reproducibility is substantial. Thankfully, brave authors have provided summaries and reviews:
+
+* Nelson, J. Simmons, & Simonsohn (2017) provide an excellent overview of [**psychology's renaissance**](https://dx.doi.org/10.1146/annurev-psych-122216-011836), with a focus on questionable research practices and suggested mitigation strategies.
+* Brent Roberts and Dan Simmons have compiled an extensive [**reproducibility and replicability reading list**](https://docs.google.com/document/d/14lBD0aZDPij2Z6AOpAharOAtmt6ZBI0EuF3_tu8m66I/) which lists further literature by topic.

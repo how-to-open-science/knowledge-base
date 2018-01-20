@@ -16,7 +16,11 @@ body {
 .faq-navbar {
     color: rgba(255, 255, 255, 0.8);
 }
+.faq-navbar .container {
+    max-width: 840px;
+}
 .faq-header {
+    padding: 30px 0 80px;
     border-bottom-color: #001f3f;
 }
 .faq-header h1, .faq-header .description {
@@ -29,6 +33,17 @@ body {
 .navbar a.navbar-brand:hover, .navbar a.navbar-brand:focus {
     color: rgba(255, 255, 255, 1);
 }
+/* navbar toggle button */
+.navbar-default .navbar-toggle {
+    border-color: rgba(255, 255, 255, 0.8);
+
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
 
 /* Search bar */
 #book-search-input input {
@@ -36,8 +51,19 @@ body {
     border-radius: 4px;
 }
 
+/* Search results */
+.no-results h1.search-results-title {
+    font-size: 2.5rem;
+}
+.no-results p {
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #999;
+    margin: 2rem 0;
+}
+
 /* Panels */
-.panel {
+.panel, .search-results {
     border-radius: 3px;
 }
 .panel-heading {
@@ -57,4 +83,63 @@ h3.panel-title {
 /* Footer */
 .faq-page-footer {
     font-size: 10px;
+}
+
+/* Comments */
+.faq-page {
+    overflow: visible;
+}
+.comments-section {
+    position: relative;
+}
+.comments-section .comments-icon {
+    visibility: hidden;
+    color: #888;
+    position: absolute;
+    top: -5px;
+    right: -15px;
+    padding: 4px 8px 3px 9px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+.comments-icon .marker {
+    font-size: 0px;
+}
+.comments-icon .marker::after {
+    content: '\f075';
+    font-family: FontAwesome;
+    font-size: 1.2rem;
+}
+.comments-section:hover .comments-icon, .comments-section.has-comments-open .comments-icon {
+    visibility: visible;
+}
+.comments-section.has-comments-open .comments-icon {
+    border: 1px solid transparent;
+}
+.comments-section .comments-icon:hover {
+    background-color: #efefef;
+}
+.comments-area {
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    right: -185px;
+}
+.comments-area input {
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    padding: 5px 8px;
+}
+
+@media (max-width: 1200px) {
+    .comments-section .comments-icon, .comments-section .comments-area {
+        display: none;
+    }
+}
+@media (min-width: 1200px) {
+    .comments-section {
+        margin: 0 -40px;
+        padding: 0 40px;
+    }
 }

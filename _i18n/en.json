@@ -1,0 +1,9 @@
+{
+    "DEFAULT_TITLE": "Open science knowledge base",
+    "FAQ_RELATED_ARTICLES": "Related Articles",
+    "FAQ_TITLE": "FAQ",
+    "GITBOOK_LINK": "Published with GitBook",
+    "SEARCH_PLACEHOLDER": "Have a question? Ask or enter a search term here.",
+    "SEARCH_RESULTS_TITLE": "<span class='search-results-count'></span> results for \"<span class='search-query'></span>\"",
+    "SEARCH_NO_RESULTS_TITLE": "Sorry, we don't seem to have an entry matching “<span class='search-query'></span>”. <p>If you think we should, please be invited to <a href='community/contribute.html'>request another entry</a> —<br> we'd be glad to make this resource more useful!</p>"
+}
