@@ -30,6 +30,7 @@
 ## Community
 
 * [How can I find out what's going on in the open science world?](community/contact.md)
+* [Where can I ask further questions?](community/questions.md)
 * [How can I contribute to this resource?](community/contribute.md)
 
 
