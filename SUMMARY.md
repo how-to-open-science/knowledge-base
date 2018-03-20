@@ -6,6 +6,7 @@
 
 * [Why preregister research?](preregistration/why.md)
 * [How can I preregister a study?](preregistration/how.md)
+* [Which level of detail is appropriate in a preregistration?](preregistration/scope.md)
 * [How can I use preregistration in class?](preregistration/teaching.md)
 * [Can I change my plans after preregistration?](preregistration/change.md)
 
