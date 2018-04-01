@@ -13,7 +13,7 @@ The Open Science Framework has collected [pre-made word documents for each of th
 
 ## Archive
 
-As with the format, where you put your preregistration is up to you. A piece of paper in your desk drawer on which you sketched your hypotheses can be helpful, however, your preregistration becomes more convincing if a third party can vouch for the specific date on which you fixed your pre-registration.
+As with the format, where you put your preregistration is up to you. A piece of paper in your desk drawer on which you sketched your hypotheses can be helpful, however, your preregistration becomes more convincing if a third party can vouch for the specific date on which you fixed your pre-registration ([Corker, 2017, discusses different degrees of public commitment](https://scienceofpsych.wordpress.com/2016/02/05/so-you-want-to-pre-register-a-study/)).
 
 If you are using a service that archives files and records changes such as [FigShare](https://figshare.com/) or [Zenodo](https://zenodo.org/), you can pre-register by uploading your document to a public or private repository. Some services additionally simplify the process by providing a form and generating a record from your responses:
 
