@@ -1,5 +1,10 @@
-site_name: My Docs
+site_name: Open Science Knowledge Base
+site_description: An annotated collection of open science resources
 theme:
   name: 'material'
 extra_css:
-  - 'stylesheets/extra.css'
+  - '_styles/extra.css'
+copyright: 'Built by scientists like you.'
+markdown_extensions:
+  - admonition
+  - meta
