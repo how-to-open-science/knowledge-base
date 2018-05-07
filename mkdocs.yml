@@ -2,6 +2,7 @@ site_name: Open Science Knowledge Base
 site_description: An annotated collection of open science resources
 theme:
   name: 'material'
+  custom_dir: 'docs/_theme'
 extra_css:
   - '_styles/extra.css'
 copyright: 'Built by scientists like you.'

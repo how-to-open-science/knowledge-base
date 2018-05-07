@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block site_name %}
+  {% if config.site_name == page.title %}
+    Open Science <strong>Knowledge Base</strong>
+  {% else %}
+    <span class="md-header-nav__topic">
+      Open Science <strong>Knowledge Base</strong>
+    </span>
+    <span class="md-header-nav__topic">
+      {{ page.title }}
+    </span>
+  {% endif %}
+{% endblock %}
