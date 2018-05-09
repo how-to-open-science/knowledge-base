@@ -1,17 +1,37 @@
-# Welcome to MkDocs
+# Fervently anticipated questions
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Reproducability
 
-## Commands
+* [Where can I learn more?](reproducibility/literature.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Preregistration
 
-## Project layout
+* [Why preregister research?](preregistration/why.md)
+* [How can I preregister a study?](preregistration/how.md)
+* [Which level of detail is appropriate in a preregistration?](preregistration/scope.md)
+* [How can I use preregistration in class?](preregistration/teaching.md)
+* [Can I change my plans after preregistration?](preregistration/change.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Open data
+
+* [What are the best practices around open data?](open-data/best-practices.md)
+* [Where can I upload data and materials?](open-data/repositories.md)
+* [How can I preserve participants' privacy?](open-data/privacy.md)
+
+## Publication
+
+* [What is a preprint, and why should I publish one?](publication/preprint-motivation.md)
+* [Where can I publish preprints?](publication/preprint-servers.md)
+* [Can I share my papers openly after publication?](publication/sharing.md)
+* [What can I do as a reviewer?](publication/review.md)
+
+## Teaching
+
+* [Where can I find resources for teaching open science?](teaching/resources.md)
+* [How can I use preregistration in class?](preregistration/teaching.md)
+
+## Community
+
+* [How can I find out what's going on in the open science world?](community/contact.md)
+* [Where can I ask further questions?](community/questions.md)
+* [How can I contribute to this resource?](community/contribute.md)
