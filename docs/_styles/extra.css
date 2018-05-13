@@ -6,3 +6,12 @@
 .md-content {
   padding-bottom: 8rem;
 }
+
+.md-sidebar {
+  opacity: 0.25;
+  transition: opacity 0.5s;
+}
+
+.md-sidebar:hover {
+  opacity: 0.8;
+}
