@@ -22,6 +22,7 @@
 
 * [What is a preprint, and why should I publish one?](publication/preprint-motivation.md)
 * [Where can I publish preprints?](publication/preprint-servers.md)
+* [How do registered reports work?](publication/registered-reports.md)
 * [Can I share my papers openly after publication?](publication/sharing.md)
 * [What can I do as a reviewer?](publication/review.md)
 

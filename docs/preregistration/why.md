@@ -19,13 +19,5 @@ Preregistration is all about proving that we don't engage in questionable resear
 
 * In an open letter, Chambers, Munafo and over 80 signatories argue that [trust in science would be improved by study pre-registration](https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration) \(2013\).
 
-## Registered reports
-
-**Registered reports** are a form of publication where the preregistration is peer-reviewed before data is collected, and the decision to publish is made regardless of the study's outcome.
-
-* The [registered reports page at the Center for Open Science](https://cos.io/rr/) provides an excellent collection of resources, including participating journals, practical information for all parties involved, and answers to common questions.
-* [Chambers, Feredoes, Muthukumaraswamy and Etchells \(2014\)](/ https://dx.doi.org/10.3934/ Neuroscience2014 .1. 4 ) introduce registered reports, outline the underlying motivations, and respond to common objections.
-* [Greve, Bröder, and Erdfelder \(2013\)](https://dx.doi.org/10.1027/1016-9040/a000144) suggest a similar idea, _result-blind peer review_.
-
-
-
+!!! seealso "Registered reports"
+    [**Registered reports**](../publication/registered-reports) are a special case of preregistration, where the study plan is peer-reviewed and part of the publication process. They merit [their own entry](../publication/registered-reports).
