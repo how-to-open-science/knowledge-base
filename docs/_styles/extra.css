@@ -23,3 +23,24 @@
 .md-hero a:hover {
   color: white;
 }
+
+
+/* Homepage customization */
+.md-homepage h2 {
+  /* Copied from the h3 theme */
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: -.01em;
+}
+
+/* Link list */
+.md-homepage ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+.md-homepage ul li {
+  margin-left: 0;
+}
+.md-homepage ul li a {
+  display: block;
+}
