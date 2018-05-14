@@ -15,4 +15,5 @@ The above list is non-exhaustive, and there more repositories and evaluation cri
 
 * The [Harvard Biomedical Data Management](https://datamanagement.hms.harvard.edu/) group provides a much more [**in-depth comparison of available repositories**](https://datamanagement.hms.harvard.edu/overview-data-repositories) and provides recommendations for [choosing a repository](https://datamanagement.hms.harvard.edu/data-deposit-storage).
 * [Nature scientific data](https://www.nature.com/sdata/) maintains a list of [**recommended data repositories**](https://www.nature.com/sdata/policies/repositories#social).
+* The [Registry of Research Data Repositories](https://www.re3data.org/) provides an extensive list of data repositories across domains.
 * [Klein et al. (2018)](https://psyarxiv.com/rtygm) include a table of of repositories at the end of their supplementary material.
