@@ -9,3 +9,4 @@ copyright: 'Built by scientists like you.'
 markdown_extensions:
   - admonition
   - meta
+  - pymdownx.details
