@@ -24,6 +24,27 @@
   color: white;
 }
 
+/* Credits/logo bar */
+.md-footer-credits {
+  display: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+.md-footer-credits img {
+  margin: 0 0.1rem;
+  padding: 0;
+  max-width: 3rem;
+  max-height: 3rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.1);
+}
+
+/* Footer links */
+.md-footer-imprint a {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
+.md-footer-imprint a:hover {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
 
 /* Homepage customization */
 .md-homepage h2 {

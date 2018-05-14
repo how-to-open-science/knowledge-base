@@ -5,8 +5,12 @@ theme:
   custom_dir: 'docs/_theme'
 extra_css:
   - '_styles/extra.css'
+extra_javascript:
+  - '_scripts/credits.js'
 copyright: 'Built by scientists like you.'
 markdown_extensions:
   - admonition
   - meta
   - pymdownx.details
+repo_name: 'felixhenninger/open-science-knowledge-base'
+repo_url: 'https://github.com/felixhenninger/open-science-knowledge-base'
