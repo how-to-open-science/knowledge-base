@@ -1,3 +1,7 @@
+title: Motivation
+
+# What is a preprint, and why should I publish one?
+
 According to Wikipedia, a [preprint](https://en.wikipedia.org/wiki/Preprint) is
 
 > **[...] a version of a scholarly or scientific paper that precedes publication in a peer-reviewed scholarly or scientific journal.** The preprint may be available, often as a non-typeset version available free, before and/or after a paper is published in a journal.

@@ -1,3 +1,7 @@
+title: Establishing contact
+
+# How can I find out what's going on in the open science world?
+
 **The Open Science community is a vibrant, friendly and collaborative group** of people working together to improve psychological science. Many discussions take place in the open, and there is always a lot going on. How can we keep up with the latest developments?
 
 ## Social media

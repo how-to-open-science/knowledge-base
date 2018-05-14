@@ -1,3 +1,7 @@
+title: Preregistration in class
+
+# How can I use preregistration in class?
+
 ## Why?
 
 Preregistering a student project can have several **practical advantages** \(alongside [theoretical benefits](/preregistration/how.md)\)

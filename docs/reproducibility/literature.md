@@ -1,3 +1,7 @@
+title: Introduction
+
+# Where can I learn more about the issues?
+
 After more than half a decade of discussion, the literature on reproducibility is substantial. Thankfully, brave authors have provided summaries and reviews:
 
 * [Spellman, Gilbert, & Corker \(2017\)](https://psyarxiv.com/ak6jr) provide practical, actionable advice for **Open Science: What, Why, and How**

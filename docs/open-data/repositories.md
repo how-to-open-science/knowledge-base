@@ -1,3 +1,7 @@
+title: Repositories
+
+# Where can I upload data and materials?
+
 You can upload your data and materials in a number of places, for example:
 
 * The [**Open Science Framework**](https://osf.io/), run by the [Center for Open Science](https://cos.io) is probably the most comprehensive platform for open data in the social sciences. Its scope extends beyond the publication of data alone, as it aims to facilitate [collaboration between multiple users](http://help.osf.io/m/projects/c/167765) even before a project is completed. [Projects can be kept private](http://help.osf.io/m/projects/l/524048-control-your-privacy-settings), and [secret, read-only links](http://help.osf.io/s/support/m/links_forks/l/524049-create-a-view-only-link-for-a-project) can be generated for reviewers to access materials before a manuscript is made public. Snapshots of projects can also be created for [preregistration](../preregistration/how.md), and [DOIs can be generated for public data](http://help.osf.io/m/sharing/l/524208-create-dois-and-arks). [Soderberg (2018)](http://journals.sagepub.com/doi/full/10.1177/2515245918757689) provides a step-by-step guide to using the OSF for sharing data.

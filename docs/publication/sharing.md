@@ -1,3 +1,7 @@
+title: Sharing papers
+
+# Can I share my papers openly after publication?
+
 The degree to and the format in which you can (legally) share your papers openly, for example by uploading `pdf` files to your personal homepage or any public repository, depends on your agreement with the publisher.
 
 The [Sherpa/Romeo database](http://www.sherpa.ac.uk/romeo/index.php) catalogues policies by journal for many publishers.

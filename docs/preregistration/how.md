@@ -1,3 +1,7 @@
+title: Methods
+
+# How can I preregister a study?
+
 **In a preregistration, you record your intentions regarding data collection and analysis.** This clearly documents which ideas were specified in advance. When you choose to preregister, your choices come down to the format of the preregistration \(especially the amount of detail and whether you use a pre-defined template\) and the place where it is archived.
 
 ## Format
