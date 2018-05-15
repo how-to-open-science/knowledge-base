@@ -1,5 +1,7 @@
 # Fervently anticipated questions
 
+Science is rapidly moving towards more open, transparent practices, posing new questions and challenges. This knowledge base is designed to serve as a practical, hands-on introduction as well as a reference for budding and veteran open scientists.
+
 ## Reproducability
 
 * [Where can I learn more?](reproducibility/literature.md)
@@ -30,7 +32,7 @@
 * [Where can I publish preprints?](publication/preprint-servers.md)
 * [How do registered reports work?](publication/registered-reports.md)
 * [Can I share my papers openly after publication?](publication/sharing.md)
-* [What can I do as a reviewer?](publication/review.md)
+* [What can I do as a reviewer to encourage open science?](publication/review.md)
 
 ----
 

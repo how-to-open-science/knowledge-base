@@ -1,6 +1,6 @@
 title: Reviewing papers
 
-# What can I do as a reviewer?
+# What can I do as a reviewer to encourage open science?
 
 Reviewers provide quality control and a seal of approval for the published scientific literature. They have considerable influence over what gets published, and can use this leverage to encourage more open practices.
 
