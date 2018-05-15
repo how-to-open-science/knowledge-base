@@ -1,6 +1,6 @@
 title: Preprint servers
 
-# Where can I publish preprints?
+# Where can I find or publish preprints?
 
 Though a preprint could be circulated through any medium in principle, in practice, fields often establish central repositories that disseminate manuscripts further, for example by notifying interested community members, and screening uploaded content. There are several such repositories or _preprint servers_.
 

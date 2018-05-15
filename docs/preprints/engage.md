@@ -1,0 +1,6 @@
+# How can I engage with preprints?
+
+**Preprints not only serve to disseminate research more quickly, they can also help improve the quality of the published literature before it's printed and (almost) unalterable.** Imagine if you could exchange you thoughts with the authors and incorporate changes instead of being stuck with a final version!
+
+* The [**PreReview**](https://www.prereview.org/) project aims to make preprints and reviews thereof commonplace. They outline their [motivation](https://www.prereview.org/users/8850/articles/198235-welcome-to-prereview) in detail, and provide a [step-by-step guide](https://prereview.org/users/8850/articles/199648-how-to-post-with-prereview-org) for preprint reviews on the [Authorea](https://authorea.com/) platform. They also suggest a [prereview journal club](https://www.prereview.org/users/164141/articles/205430-how-to-start-a-prereview-journal-club-tips-email-templates), and provide a starter kit for interested researchers.
+* There are several **platforms that collect commentary** on papers and preprints alike, such as [PubPeer](https://pubpeer.com/), which works across journals and preprints, and [hypothes.is](https://web.hypothes.is), which is offered specifically by some publishers. Some publishers also allow annotations on papers directly, for example [eLife sciences](https://elifesciences.org).

@@ -26,10 +26,16 @@ Science is rapidly moving towards more open, transparent practices, posing new q
 
 ----
 
+## Preprints
+
+* [What is a preprint, and why should I publish one?](preprints/motivation.md)
+* [Where can I find or publish preprints?](preprints/servers.md)
+* [How can I engage with preprints?](preprints/engage.md)
+
+----
+
 ## Publication
 
-* [What is a preprint, and why should I publish one?](publication/preprint-motivation.md)
-* [Where can I publish preprints?](publication/preprint-servers.md)
 * [How do registered reports work?](publication/registered-reports.md)
 * [Can I share my papers openly after publication?](publication/sharing.md)
 * [What can I do as a reviewer to encourage open science?](publication/review.md)
