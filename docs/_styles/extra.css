@@ -65,3 +65,16 @@
 .md-homepage ul li a {
   display: block;
 }
+
+/* Full-width tables */
+.table-full-width div {
+  width: 100%;
+  margin: 0;
+  padding: 0 !important;
+}
+.table-full-width table {
+  box-shadow: none !important;
+}
+.table-full-width table td {
+  padding: 1px !important;
+}
