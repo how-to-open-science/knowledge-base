@@ -1,8 +1,9 @@
 site_name: Open Science Knowledge Base
 site_description: An annotated collection of open science resources
+docs_dir: 'content'
 theme:
   name: 'material'
-  custom_dir: 'docs/_theme'
+  custom_dir: 'content/_theme'
 extra_css:
   - '_styles/extra.css'
 extra_javascript:
