@@ -6,8 +6,9 @@
 
   if (el) {
     // Download contributor data
-    fetch(`https://api.github.com/repos/${ repo }/contributors`)
+    fetch(`https://api.github.com/repos/${ repo }/stats/contributors`)
       .then(r => r.json())
+      .then(data => data.map(entry => entry.author))
       .then(contributors => {
         // Build footer contents
         el.innerHTML = creditsPrepend + contributors
