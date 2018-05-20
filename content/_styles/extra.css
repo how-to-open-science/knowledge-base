@@ -1,3 +1,6 @@
+@import "https://use.fontawesome.com/releases/v5.0.13/css/brands.css";
+@import "https://use.fontawesome.com/releases/v5.0.13/css/fontawesome.css";
+
 /* Reduce opacity of header shadow */
 .md-header[data-md-state="shadow"] {
   box-shadow: 0 0 .4rem rgba(0,0,0,.05),0 .4rem .8rem rgba(0,0,0,.1);
@@ -44,6 +47,11 @@
 }
 .md-footer-imprint a:hover {
   color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* Creative Commons icons */
+.md-footer-social .fab {
+  font-size: 2.5rem;
 }
 
 /* Homepage customization */
