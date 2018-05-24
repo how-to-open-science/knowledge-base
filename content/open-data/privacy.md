@@ -1,6 +1,6 @@
 title: Preserving privacy
 
-# How can I preserve participants' privacy
+# How can I preserve participants' privacy?
 
 Ensuring the anonymity of published data can be a tricky task. We owe it to our participants to guarantee their privacy, while being as transparent about our research as possible.
 
