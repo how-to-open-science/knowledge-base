@@ -49,6 +49,12 @@ Science is rapidly moving towards more open, transparent practices, posing new q
 
 ----
 
+## Institutions
+
+* [How can open source practices be promoted in the hiring process?](institutions/hiring.md)
+
+----
+
 ## Community
 
 * [How can I find out what's going on in the open science world?](community/contact.md)
