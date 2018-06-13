@@ -20,4 +20,4 @@ Preregistration is all about proving that we don't engage in questionable resear
 * In an open letter, Chambers, Munafo and over 80 signatories argue that [trust in science would be improved by study pre-registration](https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration) \(2013\).
 
 !!! seealso "Registered reports"
-    [**Registered reports**](../publication/registered-reports) are a special case of preregistration, where the study plan is peer-reviewed and part of the publication process. They merit [their own entry](../publication/registered-reports).
+    [**Registered reports**](../publication/registered-reports) are a special case of preregistration, where the study plan is peer-reviewed as part of the publication process. They merit [their own entry](../publication/registered-reports).
