@@ -15,7 +15,7 @@
   transition: opacity 0.5s;
 }
 .md-sidebar .md-sidebar__scrollwrap {
-  overflow: visible;
+  overflow-y: visible;
 }
 
 .md-sidebar:hover {
