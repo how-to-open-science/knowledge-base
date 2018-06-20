@@ -50,3 +50,14 @@
     {% endif %}
   {% endblock %}
 {% endblock %}
+
+{% block extrahead %}
+  <!-- Open graph metadata -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@felixhenninger">
+
+  <meta property="og:url" content="https://how-to-open.science">
+  <meta property="og:title" content="How to open.science">
+  <meta property="og:description" content="A friendly, practical guide for researchers">
+  <meta property="og:image" content="https://how-to-open.science/_theme/branding/social-m.png">
+{% endblock %}
