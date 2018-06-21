@@ -22,12 +22,25 @@
   opacity: 0.8;
 }
 
+/* Hero */
 .md-hero a {
   color: rgba(255, 255, 255, 0.75);
 }
 
 .md-hero a:hover {
   color: white;
+}
+
+/* Rainbow navigation */
+.md-main.md-rainbow {
+  text-align: center;
+  margin: 24px;
+}
+
+.md-main.md-rainbow img {
+  width: 100%;
+  min-width: 400px;
+  max-width: 750px;
 }
 
 /* Credits/logo bar */
