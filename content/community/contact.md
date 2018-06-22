@@ -10,7 +10,7 @@ Much of the day-to-day chatter can be found on social media:
 
 * [**Twitter**](https://twitter.com/) provides a never-ending firehose of discussions. The [@OpenScience](https://twitter.com/openscience) account often collects news and articles regarding Open Science across disciplines; the organizations below are also represented. If you follow some voices you find interesting, you'll likely soon get a feeling for ongoing discussions.
 * [**Facebook**](https://facebook.com/) also hosts some forums related to open science, though less so. An active group in the realm of methodology and statistics is [PsychMAP](https://www.facebook.com/groups/psychmap/about/).
-* **Blogs** reflect individual opinions in a longer format. You might enjoy the [100% CI](http://www.the100.ci/), or Simine Vazire's [Sometimes I'm Wrong](http://sometimesimwrong.typepad.com/)?
+* **Blogs** reflect individual opinions in a longer format. You might enjoy the [100% CI](http://www.the100.ci/), or Simine Vazire's [Sometimes I'm Wrong](http://sometimesimwrong.typepad.com/) or Felix Schönbrodt's [Blog](http://www.nicebread.de/)?
 * **Podcasts** can be great for casual listening to discussions. Examples you might find interesting are the [Open Science Radio](http://www.openscienceradio.org/category/english-episodes/) or [The Black Goat](http://www.theblackgoatpodcast.com).
 
 ??? seealso "Being an academic on social media"
