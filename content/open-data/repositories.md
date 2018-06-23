@@ -9,11 +9,13 @@ You can upload your data and materials in a number of places, for example:
 * [**Databrary**](https://databrary.org) is a data sharing service designed around sensitive data, particularly audio and video material of participants. It limits access to projects to researchers who have signed an agreement regarding the use of data. The project is described in detail by [Gilmore, Kennedy, & Adolph (2018)](http://journals.sagepub.com/doi/abs/10.1177/2515245917746500).
 * [**Figshare**](https://figshare.com/) is a commercial data repository run by a subsidiary of the [Holtzbrinck Publishing Group](https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group). Like Zenodo, it primarily provides storage space, alongside an online viewer for documents and presentations. DOIs are generated automatically for repositories.
 
+
 ### Repository overviews
 
-The above list is non-exhaustive, and there more repositories and evaluation criteria. These have been summarized in other places:
+The above list is non-exhaustive, and there are more repositories and evaluation criteria. These have been summarized in other places:
 
 * The [Harvard Biomedical Data Management](https://datamanagement.hms.harvard.edu/) group provides a much more [**in-depth comparison of available repositories**](https://datamanagement.hms.harvard.edu/overview-data-repositories) and provides recommendations for [choosing a repository](https://datamanagement.hms.harvard.edu/data-deposit-storage).
 * [Nature scientific data](https://www.nature.com/sdata/) maintains a list of [**recommended data repositories**](https://www.nature.com/sdata/policies/repositories#social).
 * The [Registry of Research Data Repositories](https://www.re3data.org/) provides an extensive list of data repositories across domains.
 * [Klein et al. (2018)](https://psyarxiv.com/rtygm) include a table of of repositories at the end of their supplementary material.
+* [The rOpenSci Project](https://ropensci.github.io/reproducibility-guide/sections/dataStorage/) collected a bunch of Data Storage Options depending on duration, data type, and step in data processing.
