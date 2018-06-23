@@ -25,7 +25,7 @@ To make your syntax files easy to understand, there are a few guidelines you can
 * Follow these styleguides to improve readability of your code: [Google Styleguide](https://google.github.io/styleguide/Rguide.xml), [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/Style.html) (or check out the [FormatR Package](https://yihui.name/formatr/) to reformat your R code automatically)
 * Create a codebook containing further information about your data (check out the [Codebook Package for R](https://rubenarslan.github.io/codebook/))
 * Use comments to explain your analyses
-* Give your files (data, analysis scripts, ...) self-explaining names
+* Give your files (data, analysis scripts, ...) self-explaining [names](http://kbroman.org/dataorg/pages/names.html)
 * Use [packrat](https://rstudio.github.io/packrat/) to snapshot the state of your package library, so that your code will work on another computer independently from which package versions they have installed (alternatively you can use sessioninfo() to put information about which package versions you used to the end of your file)
 * Use [RMarkdown](https://rmarkdown.rstudio.com/index.html) or [R Notebooks]( https://rmarkdown.rstudio.com/r_notebooks.html), which allow you to combine code, output, and your narrative into a single HTML- or PDF-document. [Read more](https://www.r-bloggers.com/why-i-love-r-notebooks-2/) on why R Notebooks are awesome.
 
