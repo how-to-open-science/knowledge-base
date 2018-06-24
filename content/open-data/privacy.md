@@ -13,3 +13,9 @@ Ensuring the anonymity of published data can be a tricky task. We owe it to our 
 
 !!! seealso "See also"
     The [**DataWiz Knowledge Base**](https://datawizkb.leibniz-psychology.org) provides much more information about [informed consent](https://datawizkb.leibniz-psychology.org/index.php/before-my-project-starts/informed-consent/) and [participants privacy](https://datawizkb.leibniz-psychology.org/index.php/before-my-project-starts/what-should-i-know-about-privacy/), among many other issues. Don't miss this excellent resource!
+
+
+There are tools which you can use to anonymize your data:
+* [Amnesia](amnesia.openaire.eu/index.html), an online-tool to remove identifiying information and transform secondary identifiers
+* [anonymizer](https://github.com/paulhendricks/anonymizer), an R-package to anonymize data containing personally identifiable information
+* Faker, a Python-based approach described by [Benjamin Bengfort](https://www.districtdatalabs.com/a-practical-guide-to-anonymizing-datasets-with-python-faker/)
