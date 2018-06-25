@@ -1,63 +1,80 @@
-# Fervently anticipated questions
+# Changing scientific practice
 
-Science is rapidly moving towards more open, transparent practices, posing new questions and challenges. This knowledge base is designed to serve as a practical, hands-on introduction as well as a reference for budding and veteran open scientists.
-
-## Reproducability
-
-* [Where can I learn more?](reproducibility/literature.md)
+**Science is rapidly moving towards more open, transparent practice**, posing new questions and challenges. This knowledge base is designed to serve as a practical, hands-on introduction as well as a reference for budding and veteran open scientists.
 
 ----
 
-## Preregistration
+## Bringing about **change**
 
-* [Why preregister research?](preregistration/why.md)
-* [How can I preregister a study?](preregistration/how.md)
-* [Which level of detail is appropriate in a preregistration?](preregistration/scope.md)
-* [How can I use preregistration in class?](preregistration/teaching.md)
-* [Can I change my plans after preregistration?](preregistration/change.md)
+### Educating ourselves and others
 
-----
+* [Where can I **learn more** about the issues?](change/educate/literature.md)
+* [Where can I **ask further questions**?](change/educate/ask.md)
 
-## Open data
+### The Open Science Community
 
-* [What are the best practices around open data?](open-data/best-practices.md)
-* [Where can I upload data and materials?](open-data/repositories.md)
-* [How can I preserve participants' privacy?](open-data/privacy.md)
+* [How can I find out **what's going on** in the open science world?](change/community/contact.md)
+* [Which **projects** is the community working on?](change/community/collaboration.md)
+* [How can I **contribute** to this resource?](change/community/contribute.md)
 
-----
+### Recognizing effort
 
-## Preprints
-
-* [What is a preprint, and why should I publish one?](preprints/motivation.md)
-* [Where can I find or publish preprints?](preprints/servers.md)
-* [How can I engage with preprints?](preprints/engage.md)
+* [How can we **acknowledge open practices** in hiring?](change/institutions/hiring.md)
 
 ----
 
-## Publication
-
-* [How do registered reports work?](publication/registered-reports.md)
-* [Can I share my papers openly after publication?](publication/sharing.md)
-* [What can I do as a reviewer to encourage open science?](publication/review.md)
+## Theorizing
 
 ----
 
-## Teaching
+## **Planning** research
 
-* [Where can I find resources for teaching open science?](teaching/resources.md)
-* [How can I use preregistration in class?](preregistration/teaching.md)
+### Preregistration
+
+* [**Why** preregister research?](plan/preregistration/why.md)
+* [**How** can I preregister a study?](plan/preregistration/how.md)
+* [Which **level of detail** is appropriate in a preregistration?](plan/preregistration/scope.md)
+* [Can I **change my plans** after preregistration?](plan/preregistration/change.md)
+* [How can I use preregistration **in class**?](plan/preregistration/teaching.md)
 
 ----
 
-## Institutions
-
-* [How can open source practices be promoted in the hiring process?](institutions/hiring.md)
+## **Collecting** data
 
 ----
 
-## Community
+## **Analyzing** data
 
-* [How can I find out what's going on in the open science world?](community/contact.md)
-* [Which projects is the community working on?](community/collaboration.md)
-* [Where can I ask further questions?](community/questions.md)
-* [How can I contribute to this resource?](community/contribute.md)
+* [What defines a **reproducible analysis**?](analyze/reproducibility.md)
+
+----
+
+## **Sharing** scientific resources
+
+### Open data
+
+* [What are the **best practices** around open data?](share/open-data/best-practices.md)
+* [Where can I **upload data and materials**?](share/open-data/repositories.md)
+* [How can I preserve participants' **privacy**?](share/open-data/privacy.md)
+
+----
+
+## **Disseminating** research
+
+### Preprints
+
+* [**What** is a preprint, and why should I publish one?](disseminate/preprints/motivation.md)
+* [**Where** can I find or publish preprints?](disseminate/preprints/servers.md)
+* [How can I **engage with preprints**?](disseminate/preprints/engage.md)
+
+
+### Publication
+
+* [How do **registered reports** work?](disseminate/publication/registered-reports.md)
+* [Can I **share my papers** openly after publication?](disseminate/publication/sharing.md)
+* [What can I do as a reviewer to **encourage open science**?](disseminate/publication/review.md)
+
+### Teaching
+
+* [Where can I find **resources for teaching** open science?](teaching/resources.md)
+* [How can I use **preregistration in class**?](preregistration/teaching.md)
