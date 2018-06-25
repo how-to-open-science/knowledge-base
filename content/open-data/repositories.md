@@ -18,4 +18,3 @@ The above list is non-exhaustive, and there are more repositories and evaluation
 * [Nature scientific data](https://www.nature.com/sdata/) maintains a list of [**recommended data repositories**](https://www.nature.com/sdata/policies/repositories#social).
 * The [Registry of Research Data Repositories](https://www.re3data.org/) provides an extensive list of data repositories across domains.
 * [Klein et al. (2018)](https://psyarxiv.com/rtygm) include a table of of repositories at the end of their supplementary material.
-* [The rOpenSci Project](https://ropensci.github.io/reproducibility-guide/sections/dataStorage/) collected a bunch of Data Storage Options depending on duration, data type, and step in data processing.

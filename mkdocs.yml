@@ -13,6 +13,7 @@ markdown_extensions:
   - admonition
   - meta
   - pymdownx.details
+  - pymdownx.tilde
 repo_name: 'felixhenninger/open-science-knowledge-base'
 repo_url: 'https://github.com/felixhenninger/open-science-knowledge-base'
 edit_uri: 'edit/master/content/'
