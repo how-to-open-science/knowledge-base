@@ -23,6 +23,7 @@ If you are using a service that archives files and records changes such as [FigS
 
 * [**AsPredicted**](https://aspredicted.org/) provides an online version of its preregistration form, and generates an [anonymous PDF file](https://aspredicted.org/nfj4s.pdf) from the responses, which is accessible only using a secret link provided to the registrant. The link is never made public, so it is up to the authors to share it with reviewers and include it in manuscripts.
 * The [**Open Science Framework**](http://osf.io/) allows for every project to contain registrations, which contain a snapshot of all files in the project as well any of the above templates, each of which the OSF provides in form of an online questionnaire. Registrations can be public directly, or embargoed to a maximum of four years. The OSF has provided a [step-by-step written guide to preregistration](http://help.osf.io/m/registrations/l/524205-register-your-project) as well as an extensive [video tutorial](https://www.youtube.com/watch?v=EnKkGO3OM9c).
-
-
-
+* [**EGAP**](egap.org/register-your-design) (Evidence in Governance and Politics) is an unsupervised option for social scientists to register their designs.
+* [**The American Economic Association's registry for randomized controlled trials**](https://www.socialscienceregistry.org/) was established to provide a registry for economics and other social sciences and is open only to randomized controlled trials. However, it should not be used for clinical trials as health journals that require preregistration will not accept registries in the AEA.
+* To register clinical trials you can use [ClinicalTrials.gov](https://clinicaltrials.gov) by the U.S. National Library of Medicine.
+* The [**Registry for International Development Impact Evaluations**](http://ridie.3ieimpact.org/) offers a registry for experimental and observational study designs (including randomized control trials) evaluating the impact of development programs.
