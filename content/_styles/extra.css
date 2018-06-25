@@ -85,8 +85,6 @@
 
 /* Link list */
 .md-homepage ul {
-  column-count: 2;
-  column-gap: 5rem;
   list-style-type: none;
   margin-left: 0;
 }
@@ -98,6 +96,13 @@
 }
 .md-homepage ul li a {
   display: block;
+}
+/* Use columns on wide screens only */
+@media only screen and (min-width:76.25em) {
+  .md-homepage ul {
+    column-count: 2;
+    column-gap: 5rem;
+  }
 }
 
 /* Full-width tables */
