@@ -37,6 +37,9 @@
 * [Can I **change my plans** after preregistration?](plan/preregistration/change.md)
 * [How can I use preregistration **in class**?](plan/preregistration/teaching.md)
 
+### Registered reports
+* [How do **registered reports** work?](plan/registered-reports.md)
+
 ----
 
 ## **Collecting** data
@@ -70,9 +73,11 @@
 
 ### Publication
 
-* [How do **registered reports** work?](disseminate/publication/registered-reports.md)
-* [Can I **share my papers** openly after publication?](disseminate/publication/sharing.md)
-* [What can I do as a reviewer to **encourage open science**?](disseminate/publication/review.md)
+* [Can I **share my papers** openly after publication?](disseminate/articles/sharing.md)
+* [What can I do as a reviewer to **encourage open science**?](disseminate/articles/review.md)
+
+### Registered reports
+* [How do **registered reports** work?](plan/registered-reports.md)
 
 ### Teaching
 
