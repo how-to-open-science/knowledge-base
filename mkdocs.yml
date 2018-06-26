@@ -28,8 +28,12 @@ pages:
       - Establishing contact: 'change/community/contact.md'
       - Ongoing projects: 'change/community/collaboration.md'
       - Contributing: 'change/community/contribute.md'
+    - Recognizing open science:
+      - Badges: 'change/recognize/badges.md'
     - Changing institutions:
       - Hiring practices: 'change/institutions/hiring.md'
+  - Theorizing:
+    - Knowledge synthesis: 'theorize/synthesis.md'
   - Planning research:
     - Preregistration:
       - Motivation: 'plan/preregistration/why.md'

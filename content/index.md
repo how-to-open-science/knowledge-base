@@ -17,13 +17,18 @@
 * [Which **projects** is the community working on?](change/community/collaboration.md)
 * [How can I **contribute** to this resource?](change/community/contribute.md)
 
-### Recognizing effort
+### Recognizing open practices
 
-* [How can we **acknowledge open practices** in hiring?](change/institutions/hiring.md)
+* [How do the **Open Science Badges** work?](change/recognize/badges.md)
+* [How can we acknowledge open practices in **hiring decisions**?](change/institutions/hiring.md)
 
 ----
 
-## Theorizing
+## **Theorizing**
+
+### Knowledge **synthesis**
+
+* [How can I **keep track of the reliability of results**?](theorize/synthesis.md)
 
 ----
 
