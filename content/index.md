@@ -76,5 +76,5 @@
 
 ### Teaching
 
-* [Where can I find **resources for teaching** open science?](teaching/resources.md)
-* [How can I use **preregistration in class**?](preregistration/teaching.md)
+* [Where can I find **resources for teaching** open science?](change/teaching/resources.md)
+* [How can I use **preregistration in class**?](plan/preregistration/teaching.md)

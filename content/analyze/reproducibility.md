@@ -2,7 +2,7 @@ title: Analysis
 
 # What makes an analysis replicable?
 
-**The goal of replicable data analysis is to communicate your analytic process in a way that other researchers can easily follow and reproduce your analysis and its results.** A great introduction to this topic with a focus on psychology is the [**practical guide for transparency in psychological science**](https://psyarxiv.com/rtygm/) by Klein et al., who also provide extensive [supplemental resources](http://psych-transparency-guide.uni-koeln.de/) with practical tips for reproducable analyses, and propose an exemplary [folder structure](http://psych-transparency-guide.uni-koeln.de/folder-structure.html) for data in [online repositories](../open-data/repositories.md).
+**The goal of replicable data analysis is to communicate your analytic process in a way that other researchers can easily follow and reproduce your analysis and its results.** A great introduction to this topic with a focus on psychology is the [**practical guide for transparency in psychological science**](https://psyarxiv.com/rtygm/) by Klein et al., who also provide extensive [supplemental resources](http://psych-transparency-guide.uni-koeln.de/) with practical tips for reproducable analyses, and propose an exemplary [folder structure](http://psych-transparency-guide.uni-koeln.de/folder-structure.html) for data in [online repositories](../share/open-data/repositories.md).
 
 The list of demands and best practices can seem overwhelming at times, but as Klein et al. note, even small steps are helpful, and often reduce effort on part of the original analyst:
 > [the adoption of reproducible workflows] can be piecemeal -- each incremental step towards complete transparency adds positive value.
@@ -40,7 +40,7 @@ The list of demands and best practices can seem overwhelming at times, but as Kl
 
 ## Public code
 
-**As with the above steps, publishing code can seem daunting, but Barnes (2010) makes a compelling argument to [publish your computer code: It is good enough](https://dx.doi.org/10.1038/467753a).** The code that produced them is often a vital part of the results you report, as it documents the precise steps in the analysis. For added transparency, syntax files can be shared alongside data in a [public online repository](../open-data/repositories.md).
+**As with the above steps, publishing code can seem daunting, but Barnes (2010) makes a compelling argument to [publish your computer code: It is good enough](https://dx.doi.org/10.1038/467753a).** The code that produced them is often a vital part of the results you report, as it documents the precise steps in the analysis. For added transparency, syntax files can be shared alongside data in a [public online repository](../share/open-data/repositories.md).
 
 ### Further steps
 

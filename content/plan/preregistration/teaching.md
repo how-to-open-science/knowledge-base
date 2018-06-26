@@ -4,7 +4,7 @@ title: Preregistration in class
 
 ## Why?
 
-Preregistering a student project can have several **practical advantages** \(alongside [theoretical benefits](/preregistration/how.md)\)
+Preregistering a student project can have several **practical advantages** \(alongside [theoretical benefits](./how.md)\)
 
 * Going through a preregistration questionnaire can help identify open questions and underspecified aspects of theory or analysis because students are forced to think through the entire data collection process. This is especially true in comparison to unstructured exposé-style documents that often focus on the issues which are most straightforward or discussed in the most detail.
 * Once completed, the document helps remind students \(and supervisors\) of previously made plans and considerations, reducing duplicative discussions later in the project and providing a structure for students to work independently.
