@@ -44,6 +44,7 @@ pages:
     - Registered reports: 'plan/registered-reports.md'
   - Analysis:
     - Reproducibility: 'analyze/reproducibility.md'
+    - Avoiding mistakes: 'analyze/mistakes.md'
   - Sharing:
     - Open Data:
       - Definition: 'share/open-data/definition.md'

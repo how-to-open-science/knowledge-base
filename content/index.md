@@ -54,6 +54,7 @@
 ## **Analyzing** data
 
 * [What defines a **reproducible analysis**?](analyze/reproducibility.md)
+* [How can I **avoid mistakes** in the analysis?](analyze/mistakes.md)
 
 ----
 
