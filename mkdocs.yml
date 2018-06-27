@@ -13,6 +13,50 @@ markdown_extensions:
   - admonition
   - meta
   - pymdownx.details
+  - pymdownx.tilde
 repo_name: 'felixhenninger/open-science-knowledge-base'
 repo_url: 'https://github.com/felixhenninger/open-science-knowledge-base'
 edit_uri: 'edit/master/content/'
+pages:
+  - Overview: 'index.md'
+  - Changing scientific practice:
+    - Learning about issues:
+      - Introduction to reproducibility: 'change/educate/literature.md'
+      - Where to ask questions: 'change/educate/ask.md'
+    - Teaching resources: 'change/teaching/resources.md'
+    - Open Science community:
+      - Establishing contact: 'change/community/contact.md'
+      - Ongoing projects: 'change/community/collaboration.md'
+      - Contributing: 'change/community/contribute.md'
+    - Recognizing open science:
+      - Badges: 'change/recognize/badges.md'
+    - Changing institutions:
+      - Hiring practices: 'change/institutions/hiring.md'
+  - Theorizing:
+    - Knowledge synthesis: 'theorize/synthesis.md'
+  - Planning research:
+    - Preregistration:
+      - Motivation: 'plan/preregistration/why.md'
+      - Methods: 'plan/preregistration/how.md'
+      - Scope: 'plan/preregistration/scope.md'
+      - Binding character: 'plan/preregistration/change.md'
+      - Teaching: 'plan/preregistration/teaching.md'
+    - Registered reports: 'plan/registered-reports.md'
+  - Analysis:
+    - Reproducibility: 'analyze/reproducibility.md'
+  - Sharing:
+    - Open Data:
+      - Definition: 'share/open-data/definition.md'
+      - Best practices: 'share/open-data/best-practices.md'
+      - Repositories: 'share/open-data/repositories.md'
+      - Ensuring privacy: 'share/open-data/privacy.md'
+  - Dissemination:
+    - Preprints:
+      - Motivation: 'disseminate/preprints/motivation.md'
+      - Preprint servers: 'disseminate/preprints/servers.md'
+      - Engaging with preprints: 'disseminate/preprints/engage.md'
+    - Articles:
+      - Sharing papers: 'disseminate/articles/sharing.md'
+    - Peer review: 'disseminate/articles/review.md'
+    - Registered reports: 'plan/registered-reports.md'
+  - ' Imprint': '_legal/imprint.md'

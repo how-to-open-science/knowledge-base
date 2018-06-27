@@ -6,28 +6,43 @@
   box-shadow: 0 0 .4rem rgba(0,0,0,.05),0 .4rem .8rem rgba(0,0,0,.1);
 }
 
+/* Equalize padding around content */
 .md-content {
   padding-bottom: 8rem;
 }
 
+/* Fade out sidebars */
 .md-sidebar {
   opacity: 0.25;
   transition: opacity 0.5s;
 }
 .md-sidebar .md-sidebar__scrollwrap {
-  overflow: visible;
+  overflow-y: visible;
 }
 
 .md-sidebar:hover {
   opacity: 0.8;
 }
 
+/* Hero */
 .md-hero a {
   color: rgba(255, 255, 255, 0.75);
 }
 
 .md-hero a:hover {
   color: white;
+}
+
+/* Rainbow navigation */
+.md-main.md-rainbow {
+  text-align: center;
+  margin: 24px;
+}
+
+.md-main.md-rainbow img {
+  width: 100%;
+  min-width: 400px;
+  max-width: 750px;
 }
 
 /* Credits/logo bar */
@@ -64,6 +79,11 @@
   font-weight: 400;
   letter-spacing: -.01em;
 }
+.md-homepage h3 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  letter-spacing: -.005em;
+}
 
 /* Link list */
 .md-homepage ul {
@@ -72,9 +92,24 @@
 }
 .md-homepage ul li {
   margin-left: 0;
+  /* page-break-inside is a mozilla-specific replacement */
+  page-break-inside: avoid;
+  break-inside: avoid-column;
 }
 .md-homepage ul li a {
   display: block;
+}
+/* Use columns on wide screens only */
+@media only screen and (min-width:76.25em) {
+  .md-homepage ul {
+    column-count: 2;
+    column-gap: 5rem;
+  }
+  /* Avoid annoying mid-line column breaks
+     in firefox with a crude hack */
+  .md-homepage ul li:only-child {
+    height: 12rem;
+  }
 }
 
 /* Full-width tables */
