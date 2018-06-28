@@ -33,3 +33,65 @@ If you have an idea for a new entry, please reach out to [Felix Henninger](http:
 
 
     -A friendly and smart contributor
+
+
+## How can I develop content locally?
+These instructions are intended for those users on Linux or Unix flavored systems
+with a command line. If you are using Windows, the easier option might be to
+[open an issue](https://github.com/FelixHenninger/open-science-knowledge-base/issues) or use the contact above to request a change.
+
+
+### 1. Fork and Clone the Repository on Github
+If you want to dig in and contribute directly, you can clone the repository,
+check out a new branch, and then develop locally. FIrst, you should fork the
+repository to your Github account. If your username is `waffles` after you
+fork, you would clone like this:
+
+```bash
+$ git clone https://www.github.com/waffles/open-science-knowledge-base
+$ cd open-science-knowledge-base
+```
+
+### 2. Create a New Branch
+
+At this point, you are on the `master` branch, which is the main branch of the
+repository that should be kept in line with the upstream (the primary repository).
+In order to cleanly separate your changes, you should first checkout a new branch:
+
+```bash
+$ git checkout -b add/my-addition master
+```
+
+### 3. Make Changes
+Then, make changes to your heart's content! The project uses [mkdocs](https://www.mkdocs.org)
+so you should first install it:
+
+```bash
+$ pip install mkdocs
+```
+
+The theme that we use is [Material](https://squidfunk.github.io/mkdocs-material/) so
+you need to install that too.
+
+```bash
+$ pip install mkdocs-material
+```
+
+and then start a local server to see your changes in action!
+
+```bash
+$ mkdocs serve
+INFO    -  Building documentation... 
+INFO    -  Cleaning site directory 
+[I 180628 10:57:20 server:292] Serving on http://127.0.0.1:8000
+[I 180628 10:57:20 handlers:59] Start watching changes
+[I 180628 10:57:20 handlers:61] Start detecting changes
+```
+
+And open up [http://127.0.0.1:8000](http://127.0.0.1:8000) to see the site. As you
+edit the local text files, you will see the server rebuild automatically!
+If you need more detail or instruction, please see the link provided above.
+
+### 4. Create a Pull Request
+
+When you are ready you can opena [pull request](https://help.github.com/articles/about-pull-requests/) to the primary repository master branch, and discuss your changes with the maintainers. Please be sure to include details about your contribution.
