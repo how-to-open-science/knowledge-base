@@ -30,6 +30,8 @@ The list of demands and best practices can seem overwhelming at times, but as Kl
 
 ### Containers
 
+> Containers help to ensure that your analysis runs today, and in years to come.
+
 * [Singularity](https://singularityware.github.io/) containers offer a secure means to distribute scientific applications on a shared resource.
 * [Docker`](https://docs.docker.com/get-started/) is ideal for building a container intended for local use, or for conversion to Singularity, allowing for both use cases easily.
 * [The Experiment Factory](https://expfactory.github.io/) to generate reproducible container based behavioral experiments.
