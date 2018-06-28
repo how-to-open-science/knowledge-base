@@ -13,6 +13,8 @@ The list of demands and best practices can seem overwhelming at times, but as Kl
 
 **For maximum reproducibility, freely available tools that can be picked up by any colleague are often more helpful than proprietary, commercial tools.** Thankfully, there are several sets of tools to choose from:
 
+### Scientific Programming 
+
 * The [`R`](https://cran.rstudio.com/) programming language and the corresponding [RStudio](https://www.rstudio.com/) interface.
 * [Python](https://www.python.org/) and [Jupyter](https://jupyter.org/) provide an alternative approach.
 * [Julia](https://julialang.org/) is a programming language focussed on high-performance numerical computation.
@@ -25,6 +27,15 @@ The list of demands and best practices can seem overwhelming at times, but as Kl
     * The Software Carpentry offers an [**introduction to `R`** for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/).
     * RStudio's [`R` **Cheatsheets**](https://www.rstudio.com/resources/cheatsheets/) are a fantastic resource for finding `R` commands for any particular purpose.
     * [`R` for Data Science](http://r4ds.had.co.nz/) by Grolemund & Wickham is a more comprehensive, and also more advanced, tutorial that covers all aspects of data analysis.
+
+### Containers
+
+* [Singularity](https://singularityware.github.io/) containers offer a secure means to distribute scientific applications on a shared resource.
+* [Docker`](https://docs.docker.com/get-started/) is ideal for building a container intended for local use, or for conversion to Singularity, allowing for both use cases easily.
+* [The Experiment Factory](https://expfactory.github.io/) to generate reproducible container based behavioral experiments.
+* [The Scientific Filesystem](https://sci-f.github.io/) and it's associated [Container Builder](https://sci-f.github.io/) to easily plug your code into a `build` --> `test` --> `deploy` framework.
+* [Container Tools](https://singularityhub.github.io/) for a wide range of open source tools for containers optimized for open science.
+
 
 ----
 
