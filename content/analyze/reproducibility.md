@@ -39,6 +39,14 @@ The list of demands and best practices can seem overwhelming at times, but as Kl
 * [Container Tools](https://singularityhub.github.io/) for a wide range of open source tools for containers optimized for open science.
 
 
+!!! tip "Container Resources"
+    If you are new to using containers, there are several fantastic resources to help you get started:
+
+    * The preprint [Computational Reproducibility via Containers in Social Psychology](https://psyarxiv.com/mf82t/), is a solid introduction and overview to container technology, and its importance for reproducibility.
+    * [Singularity: Scientific containers for mobility of compute](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459) and [Enhancing reproducibility in scientific computing: Metrics and registry for Singularity containers](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188511) discusses challenges specific to container technologies on shared resources that are common to academic institutions.
+    * [The Scientific Filesystem](https://academic.oup.com/gigascience/article/7/5/giy023/4931737) reviews some of the challenges and offers a solution for creating modular, discoverable container software.
+
+
 ----
 
 ## Open and documented data formats
