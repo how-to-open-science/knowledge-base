@@ -8,7 +8,7 @@ title: Methods
 
 In principle, the format of your preregistration is arbitrary as long as it states your plans clearly. Similarly, it need not be long, but any additional detail will help you prove that you followed a confirmatory research strategy. In practice, templates with pre-specified questions and prompts \(as opposed to an open-ended, narrative preregistration\) can help guide you through the process and make sure all critical questions are addressed.
 
-The Open Science Framework has collected [pre-made word documents for each of these templates](https://osf.io/zab38/).
+The Open Science Framework has collected [pre-made documents for each of these templates](https://osf.io/zab38/wiki/home/).
 
 * **AsPredicted** boils the preregistration down to [eight questions](https://aspredicted.org/nfj4s.pdf), and is probably the shortest and most straight-forward format available.
 * **Brandt et al. \(2013\)** provide a [recipe specifically for preregistering replications](https://osf.io/4jd46/)
