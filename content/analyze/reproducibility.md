@@ -59,19 +59,28 @@ Beyond sharing your code, you can take several additional steps further increase
 * [**Self-contained projects**](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) reduce the degree to which a programme is tied to any specific computer, ensuring that analyses can be re-run by others.
 * [**Literate programming**](https://en.wikipedia.org/wiki/Literate_programming) is the practice of combining code interwoven with the narrative of the analysis such as explanations and discussions of the intermediate steps. For example, [Notebooks in RStudio](https://rmarkdown.rstudio.com/r_notebooks.html) or [Jupyter](https://jupyter.org) contain not only code, but also the output of every analysis step, and can also contain your commentary. They also produce `HTML` and `PDF` reports that make it possible to inspect all results without re-running the analysis. **Comments** in scripts also facilitate understanding.
 * **Consistency** can also help add clarity to code. For added standardization, you might consider adopting [naming conventions in `R`](https://www.r-bloggers.com/consistent-naming-conventions-in-r/), follow a styleguide such as the one proposed in [Advanced `R`](http://adv-r.had.co.nz/Style.html), or the [Google Styleguide](https://google.github.io/styleguide/Rguide.xml), or let a package like [FormatR](https://yihui.name/formatr/) do the work for you.
-* **Version control** systems track changes to code (and other files) over time, documenting the history of a project, and providing backups of earlier versions to fall back on. Bryan (2017) provides a good introduction to the most popular such system, `Git`, in the context of research data and `R`, if you have [a moment to talk about version control](https://dx.doi.org/10.1080/00031305.2017.1399928). Vuorre & Curley (2018) provide a tutorial on [curating research assets](https://doi.org/10.1177%2F2515245918754826) with `Git`, tailored specifically to psychology.
+
+### Version control
+
+**Version control** systems track changes to code (and other files) over time, documenting the history of a project, and providing backups of earlier versions to fall back on.
+
+!!! info "Version control resources"
+    * Bryan (2017) provides an excellent introduction to the most popular such system, `Git`, in the context of research data and `R`, if you have [a moment to talk about version control](https://dx.doi.org/10.1080/00031305.2017.1399928). The author also shares her extensive step-by-step guide to [Happy Git and GitHub for the useR](http://happygitwithr.com/).
+    * Vuorre & Curley (2018) provide a tutorial on [curating research assets](https://doi.org/10.1177%2F2515245918754826) with `Git`, tailored specifically to psychology.
 
 ### Dependency management
 
-**Your results may depend on the specific versions of the software you used in your analysis** -- both the analysis framework, and the plugins and packages you installed on your machine. Documenting these dependencies, such as the package versions you relied on, helps others to recreate the exact environment that you conducted the analysis in. This helps avoid [works-on-my-machine errors](http://psych-transparency-guide.uni-koeln.de/analytic-reproducibility.html#avoid-works-on-my-machine-errors) that can be extremely difficult to pin down.
+**Your results may depend on the specific versions of the software you used in your analysis** -- both the analysis framework, and the plugins and packages you installed on your computer. Documenting these dependencies, such as the package versions you relied on, helps others to recreate the exact environment that you conducted the analysis in. This helps avoid [works-on-my-machine errors](http://psych-transparency-guide.uni-koeln.de/analytic-reproducibility.html#avoid-works-on-my-machine-errors) that can be extremely difficult to pin down.
 
-#### Tools
+!!! info "Dependency management resources"
+    **Approaches**
 
-* In **`R`**, the [packrat package](https://rstudio.github.io/packrat/) provides a snapshot of your package library and allows others to reproduce the exact same state. The built-in `sessionInfo()` command lists the versions of every active package.
-* In **Python**, the [`virtualenv`](https://virtualenv.pypa.io) helps manage environments on a per-project basis. [Conda](https://conda.io) aims to manage dependencies in any language, but is most common in the Python world.
-* **Containers** are the latest addition to the dependency management toolkit. Instead of just recreating the set of installed packages, _containers capture an entire system_, and often contain instructions for automatically setting up the system from scratch. This ensures that every part of the analysis environment can be reproduced exactly, and safely transferred between computers if desired. Thus, an entire analyis can be packaged and (re-)run on almost any computer, including external online services.<br>Containers are probably most useful where dependencies go beyond a single analysis framework and associated packages, for example in the case of complex toolchains.
+    * In **`R`**, the [packrat package](https://rstudio.github.io/packrat/) provides a snapshot of your package library and allows others to reproduce the exact same state. The built-in `sessionInfo()` command lists the versions of every active package.
+    * In **Python**, the [`virtualenv`](https://virtualenv.pypa.io) helps manage environments on a per-project basis. [Conda](https://conda.io) aims to manage dependencies in any language, but is most common in the Python world.
+    * **Containers** are the latest addition to the dependency management toolkit. Instead of just recreating the set of installed packages, _containers capture an entire system_, and often contain instructions for automatically setting up the system from scratch. This ensures that every part of the analysis environment can be reproduced exactly, and safely transferred between computers if desired. Thus, an entire analyis can be packaged and (re-)run on almost any computer, including external online services.<br>Containers are probably most useful where dependencies go beyond a single analysis framework and associated packages, for example in the case of complex toolchains.
 
-!!! info "Containers"
+    **Containers**
+
     Containers are frequently used in software engineering, and are a very stable and dependable technology that is slowly finding its way into scientific practice. The most common software for managing containers is [Docker](https://docs.docker.com/get-started/).
 
     * [Green & Clyburne-Sherin (2018)](https://psyarxiv.com/mf82t/) motivate and review containers in the context of reproducible analyses in the social sciences. Their manuscript introduces the commercial [CodeOcean](https://codeocean.com/) service, which can run analysis containers over the internet.
