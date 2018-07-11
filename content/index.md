@@ -60,6 +60,8 @@
 
 ## **Sharing** scientific resources
 
+* [How can I set conditions for the use of my materials? How do **licenses** work?](share/licenses.md)
+
 ### Open data
 
 * [What are the **best practices** around open data?](share/open-data/best-practices.md)

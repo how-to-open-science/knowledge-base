@@ -51,6 +51,7 @@ pages:
       - Best practices: 'share/open-data/best-practices.md'
       - Repositories: 'share/open-data/repositories.md'
       - Ensuring privacy: 'share/open-data/privacy.md'
+    - Licenses: 'share/licenses.md'
   - Dissemination:
     - Preprints:
       - Motivation: 'disseminate/preprints/motivation.md'
