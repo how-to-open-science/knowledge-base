@@ -6,6 +6,8 @@
 
 ## Bringing about **change**
 
+* [What are some **steps I can take right now**?](change/educate/first-steps.md)
+
 ### Educating ourselves and others
 
 * [Where can I **learn more** about the issues?](change/educate/literature.md)
