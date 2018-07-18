@@ -14,6 +14,7 @@ The Open Science Framework has collected [pre-made documents for each of these t
 * **Brandt et al. \(2013\)** provide a [recipe specifically for preregistering replications](https://osf.io/4jd46/)
 * **van 't Veer and Gina-Sorolla** \(2016\) suggest a [template geared toward experimental research](https://osf.io/56g8e/), and helpfully distinguish between essential and optional, but recommended, elements.
 * The **Preregistration Challenge** provides arguably the most [comprehensive template](https://osf.io/jea94/).
+* For **(re)analyses of existing data**, there's a [secondary data preregistration template](https://osf.io/djgvw/) by Sara J. Weston and Marjan Bakker
 
 ## Archive
 
