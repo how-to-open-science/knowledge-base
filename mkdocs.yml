@@ -20,6 +20,7 @@ edit_uri: 'edit/master/content/'
 pages:
   - Overview: 'index.md'
   - Changing scientific practice:
+    - First steps: 'change/educate/first-steps.md'
     - Learning about issues:
       - Introduction to reproducibility: 'change/educate/literature.md'
       - Where to ask questions: 'change/educate/ask.md'
