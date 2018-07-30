@@ -2,7 +2,7 @@ title: Motivation
 
 # Why preregister research?
 
-**By preregistering research, you create a public record of your hypotheses and planned analyses before you conduct them**, so that you can later demonstrate that you did not change hypotheses after learning your results \(HARKing; [Kerr, 1998](https://dx.doi.org/10.1207/s15327957pspr0203_4)\), nor that changed the analysis to create a specific result. This increases the credibility of your findings, and is [increasingly becoming the standard in our field](https://www.psychologicalscience.org/observer/preregistration-becoming-the-norm-in-psychological-science).
+**By preregistering research, you create a public record of your hypotheses and planned analyses before you conduct them**, so that you can later demonstrate that you did not change hypotheses after learning your results \(HARKing; [Kerr, 1998](https://dx.doi.org/10.1207/s15327957pspr0203_4)\), nor that you changed the analysis to create a specific result. This increases the credibility of your findings, and is [increasingly becoming the standard in our field](https://www.psychologicalscience.org/observer/preregistration-becoming-the-norm-in-psychological-science).
 
 ## Questionable research practices
 
