@@ -5,6 +5,7 @@ As the replication crisis casts doubt on the reliability of research findings, a
 ## Summarizing replication efforts
 
 * [**Curate science**](http://curatescience.org/) collects replications and registered reports and matches them to the original articles. The service aggregates and visualizes effect sizes of the original study and its replications, and computes a meta-analytic average.
+* [**PsychFileDrawer**](psychfiledrawer.org) archives attempted replications of specific studies and whether the replication was achieved, making it easier to estimate the robustness of an effect or finding resources for meta-analyses.
 
 ## Collecting errata and retractions
 
