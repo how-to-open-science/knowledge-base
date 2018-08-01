@@ -6,5 +6,5 @@ The badges indicate [**preregistration**](../../plan/preregistration/why.md) of 
 
 
 !!! info "Further resources"
-    * Every badge comes with a [set of **critera**](https://osf.io/tvyxz/wiki/1.%20View%20the%20Badges/) that govern whether it can be conferred.
+    * Every badge comes with a [set of **criteria**](https://osf.io/tvyxz/wiki/1.%20View%20the%20Badges/) that govern whether it can be conferred.
     * The Open Science Framework maintains a [list of **journals that offer badges**](https://osf.io/tvyxz/wiki/5.%20Adoptions%20and%20Endorsements/).

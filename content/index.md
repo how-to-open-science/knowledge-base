@@ -69,6 +69,7 @@
 * [What are the **best practices** around open data?](share/open-data/best-practices.md)
 * [Where can I **upload data and materials**?](share/open-data/repositories.md)
 * [How can I preserve participants' **privacy**?](share/open-data/privacy.md)
+* [Which **legal aspects** do I need to consider?](share/open-data/legal-aspects.md)
 
 ----
 

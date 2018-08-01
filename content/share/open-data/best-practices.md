@@ -1,5 +1,9 @@
 title: Best practices
 
+There are many good reasons to publish your primary data. To name only a few, access to data is undoubtedly essential to verify findings or to conduct meta-analyses and especially if your research is funded by public money, your data arguably belongs to the public and should therefore be accessible.
+
+Already back in 2008, the German Research Foundation recommended that "if possible, each scientist or academic make his or her primary research data freely available on a transregional level" ([DFG (2008), recommendation \#5](http://www.dfg.de/download/pdf/foerderung/programme/lis/ua_inf_empfehlungen_200901_en.pdf)).
+
 # What are the best practices around open data?
 
 * [Goodman et al. (2014)](journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542) outline _Ten Simple Rules for the Care and Feeding of Scientific Data_

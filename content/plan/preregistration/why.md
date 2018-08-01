@@ -2,11 +2,12 @@ title: Motivation
 
 # Why preregister research?
 
-**By preregistering research, you create a public record of your hypotheses and planned analyses before you conduct them**, so that you can later demonstrate that you did not change hypotheses after learning your results \(HARKing; [Kerr, 1998](https://dx.doi.org/10.1207/s15327957pspr0203_4)\), nor that changed the analysis to create a specific result. This increases the credibility of your findings, and is [increasingly becoming the standard in our field](https://www.psychologicalscience.org/observer/preregistration-becoming-the-norm-in-psychological-science).
+**By preregistering research, you create a public record of your hypotheses and planned analyses before you conduct them**, so that you can later demonstrate that you did not change hypotheses after learning your results \(HARKing; [Kerr, 1998](https://dx.doi.org/10.1207/s15327957pspr0203_4)\), nor that you changed the analysis to create a specific result. This increases the credibility of your findings, and is [increasingly becoming the standard in our field](https://www.psychologicalscience.org/observer/preregistration-becoming-the-norm-in-psychological-science).
 
 ## Questionable research practices
 
-Preregistration is all about proving that we don't engage in questionable research practices \(QRPs\).
+Preregistration is all about proving that we don't engage in questionable research practices \(QRPs\). (Don't worry, if you haven't come across this term before: Ulrich Schimmack put together an [overview of QRPs](https://replicationindex.wordpress.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/)  and why these are problematic.)
+
 
 * [Nuzzo \(2015\)](https://dx.doi.org/10.1038/526182a) highlights the potential for self-deception in research, and summarizes countermeasures \(preregistration being one of them\)
 * [Wagenmakers, Wetzels, Borsboom, van der Mass, and Kievit \(2012\)](https://dx.doi.org/10.1177/1745691612463078) list the different biases that can be introduced into an analysis, and argue that only pre-registered research should be labelled 'confirmatory'.
