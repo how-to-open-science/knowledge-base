@@ -75,7 +75,7 @@ Beyond sharing your code, you can take several additional steps further increase
 !!! info "Dependency management resources"
     **Approaches**
 
-    * In **`R`**, the [packrat package](https://rstudio.github.io/packrat/) provides a snapshot of your package library and allows others to reproduce the exact same state. The built-in `sessionInfo()` command lists the versions of every active package.
+    * In **`R`**, the [packrat package](https://rstudio.github.io/packrat/) stores a snapshot of your package library and allows others to reproduce the exact same state. The [Checkpoint package](https://github.com/RevolutionAnalytics/checkpoint) will reinstall packages available on a specific date. The built-in `sessionInfo()` command lists the used versions of every active package.
     * In **Python**, the [`virtualenv`](https://virtualenv.pypa.io) helps manage environments on a per-project basis. [Conda](https://conda.io) aims to manage dependencies in any language, but is most common in the Python world.
     * **Containers** are the latest addition to the dependency management toolkit. Instead of just recreating the set of installed packages, _containers capture an entire system_, and often contain instructions for automatically setting up the system from scratch. This ensures that every part of the analysis environment can be reproduced exactly, and safely transferred between computers if desired. Thus, an entire analyis can be packaged and (re-)run on almost any computer, including external online services.<br>Containers are probably most useful where dependencies go beyond a single analysis framework and associated packages, for example in the case of complex toolchains.
 
