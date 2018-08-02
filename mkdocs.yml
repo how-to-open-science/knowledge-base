@@ -1,5 +1,6 @@
 site_name: Open Science Knowledge Base
 site_description: An annotated collection of open science resources
+site_url: https://how-to-open.science
 docs_dir: 'content'
 theme:
   name: 'material'
