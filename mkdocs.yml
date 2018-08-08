@@ -18,7 +18,8 @@ markdown_extensions:
 repo_name: 'felixhenninger/open-science-knowledge-base'
 repo_url: 'https://github.com/felixhenninger/open-science-knowledge-base'
 edit_uri: 'edit/master/content/'
-pages:
+strict: true
+nav:
   - Overview: 'index.md'
   - Changing scientific practice:
     - First steps: 'change/educate/first-steps.md'
@@ -63,4 +64,3 @@ pages:
       - Sharing papers: 'disseminate/articles/sharing.md'
     - Peer review: 'disseminate/articles/review.md'
     - Registered reports: 'plan/registered-reports.md'
-  - ' Imprint': '_legal/imprint.md'
