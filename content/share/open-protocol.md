@@ -1,12 +1,12 @@
-# How can I make it easier for other researchers to reproduce my work?
+# How should I document my research process in order to make it easier for other researchers to reproduce my work?
 
-**The goal of open protocols is to document and communicate your protocol so that other researchers can easily follow your procedure and replicate your work.**
-
+**The goal of open protocols is to document and communicate your research process so that other researchers can easily follow your procedure and replicate your work.**
 
 Additionally,
 > [p]ublishing study protocols enables researchers and funding bodies to stay up to date in their fields by providing exposure to research activity that may not otherwise be widely publicised. This can help prevent unnecessary duplication of work and will hopefully enable collaboration.
 ([BMJ Open](https://bmjopen.bmj.com/pages/authors/#study_protocols))
 
+The term *protocol* refers to the precise method for carrying out or reproducing a given experiment. Depending on your field of study, this can include everything from setting up your study or experiment to analyzing your data. Here, we gathered a few resources that might help you document your process as closely as possible, so that it can be easily reproduced by your fellow researchers.
 
 * The Project Teaching Integrity in Empirical Research developed the [DRESS Protocol](https://www.projecttier.org/tier-protocol/dress-protocol/). It is a set of standards for documenting empirical research in the social sciences. It specifies the content and organization of the replication documentation for a study that reports results obtained by manipulating and analyzing statistical data.
 
