@@ -35,3 +35,4 @@ Open licenses have been used for decades in computer science and software engine
 !!! note "Licensing software"
 
     * The Software Sustainability Institute provides an in-depth discussion of [**choosing an open-source license**](https://www.software.ac.uk/choosing-open-source-licence) focussed on scientific software.
+    * [TLDR legal](https://tldrlegal.com/) summarizes most open source licenses, and lists the rights and demands they confer.
