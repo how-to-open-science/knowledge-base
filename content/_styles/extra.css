@@ -124,3 +124,12 @@
 .table-full-width table td {
   padding: 1px !important;
 }
+
+/* Information boxes */
+.md-typeset .admonition {
+  font-size: 1.5rem;
+}
+
+.md-typeset .admonition .admonition-title::before {
+  padding-top: 0.1rem;
+}
