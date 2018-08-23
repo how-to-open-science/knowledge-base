@@ -7,6 +7,8 @@ You're free to draft your own terms, but **it's common to apply a pre-made licen
 !!! tip "Getting started"
 
     * The [**public license selector**](https://ufal.github.io/public-license-selector/) helps you narrow down the applicable licenses through a series of questions.
+    * The [**Scientific Licensing Portal**](http://forschungslizenzen.de/) (German) provides an excellent review of the legal landscape around copyright and license options, with a focus on German law.
+    * A FAQ by the [Leibniz Information Centre for Science and Technology](https://www.tib.eu) addresses [**legal aspects of dealing with scientific data**](https://zenodo.org/record/1173546#.WyEIVKlCRXh) (German). A formal legal [expertise around the **current German legal situation**](https://www.ianus-fdz.de/projects/ap6-geschaeftsmodell/wiki/Expertise_AP6_2) (German) summarizes issues especially around digital archeology.
 
 ----
 
