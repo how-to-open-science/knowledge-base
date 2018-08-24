@@ -1,4 +1,4 @@
-title: Best practices
+# Best practices
 
 # What are the best practices around open data?
 
