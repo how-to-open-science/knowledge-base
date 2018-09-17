@@ -67,7 +67,7 @@
 * [How can I set conditions for the use of my materials? How do **licenses** work?](share/licenses.md)
 
 ### Open protocols
-* [How can I share my **research process**?](share/open-protocol.md)
+* [How can I share my **research process**?](share/open-protocols.md)
 
 ### Open data
 

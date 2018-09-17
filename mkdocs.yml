@@ -57,7 +57,7 @@ nav:
       - Repositories: 'share/open-data/repositories.md'
       - Ensuring privacy: 'share/open-data/privacy.md'
     - Licenses: 'share/licenses.md'
-    - Open Protocol: 'share/open-protocol.md'
+    - Open Protocols: 'share/open-protocols.md'
   - Dissemination:
     - Preprints:
       - Motivation: 'disseminate/preprints/motivation.md'
