@@ -6,12 +6,14 @@
 
 ## Bringing about **change**
 
+* [How can I personally implement open science practices?](change/get_started.md)
 * [What are some **steps I can take right now**?](change/educate/first-steps.md)
 
 ### Educating ourselves and others
 
 * [Where can I **learn more** about the issues?](change/educate/literature.md)
 * [Where can I **ask further questions**?](change/educate/ask.md)
+* [Where can I find **resources for teaching** open science?](change/teaching/resources.md)
 
 ### The Open Science Community
 
@@ -47,12 +49,11 @@
 ### Registered reports
 * [How do **registered reports** work?](plan/registered-reports.md)
 
-## Open protocol
-* [How should I **document** my research process?](share/open-protocol.md)
-
 ----
 
 ## **Collecting** data
+
+* Which questions do you have concerning collecting data? [Let us know!](change/community/contribute.md)
 
 ----
 
@@ -72,6 +73,9 @@
 * [What are the **best practices** around open data?](share/open-data/best-practices.md)
 * [Where can I **upload data and materials**?](share/open-data/repositories.md)
 * [How can I preserve participants' **privacy**?](share/open-data/privacy.md)
+
+### Open methodology
+* [How should I **document** my research process?](share/open-protocol.md)
 
 ----
 

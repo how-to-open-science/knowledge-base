@@ -21,20 +21,23 @@ edit_uri: 'edit/master/content/'
 strict: true
 nav:
   - Overview: 'index.md'
-  - Changing scientific practice:
-    - First steps: 'change/educate/first-steps.md'
-    - Learning about issues:
-      - Introduction to reproducibility: 'change/educate/literature.md'
+  - Changing scientific practice: 'change/educate/first-steps.md'
+    - What's the matter?:
+      - Introduction to reproducible science: 'change/educate/literature.md'
       - Where to ask questions: 'change/educate/ask.md'
-    - Teaching resources: 'change/teaching/resources.md'
-    - Open Science community:
-      - Establishing contact: 'change/community/contact.md'
-      - Ongoing projects: 'change/community/collaboration.md'
-      - Contributing: 'change/community/contribute.md'
+    - First steps: 'change/get_started.md'
+    - Open Science community: 'change/community/community.md'
+      - Online Community: 'change/community/online_community.md'
+      - Offline Community: 'change/community/offline_community.md'
+      - Ongoing collaborative efforts: 'change/community/collaboration.md'
     - Recognizing open science:
-      - Badges: 'change/recognize/badges.md'
+      - Open Science Badges: 'change/recognize/badges.md'
     - Changing institutions:
       - Hiring practices: 'change/institutions/hiring.md'
+      - Lab Transition: 'change/institutions/lab.md'
+      - Local Open Science Initiative: 'change/institutions/uni.md'
+    - Teaching resources: 'change/teaching/resources.md'
+    - Contribute to this resource: 'change/community/contribute.md'
   - Theorizing:
     - Knowledge synthesis: 'theorize/synthesis.md'
   - Planning research:
@@ -49,13 +52,14 @@ nav:
     - Reproducibility: 'analyze/reproducibility.md'
     - Avoiding mistakes: 'analyze/mistakes.md'
   - Sharing:
+    - Documentation:
+      - Open Methodology: 'share/open-methodology.md'
     - Open Data:
       - Definition: 'share/open-data/definition.md'
       - Best practices: 'share/open-data/best-practices.md'
       - Repositories: 'share/open-data/repositories.md'
       - Ensuring privacy: 'share/open-data/privacy.md'
     - Licenses: 'share/licenses.md'
-    - Open Protocol: 'share/open-protocol.md'
   - Dissemination:
     - Preprints:
       - Motivation: 'disseminate/preprints/motivation.md'
