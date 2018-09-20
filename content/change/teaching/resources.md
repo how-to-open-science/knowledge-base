@@ -1,4 +1,4 @@
-title: Resources
+title: Teaching resources
 
 # Where can I find resources for teaching open science?
 
@@ -6,6 +6,7 @@ Open Science is here to stay. Therefore, students deserve to be prepared for a f
 
 As with scientific resources, members of the Open Science community have created and share freely their teaching materials. Here are a few resources:
 
+* The [**Open Science Training Handbook**](https://book.fosteropenscience.eu) is a fantastic and comprehensive resource that covers many topics around open science. It's built for people who would like to create open science training, and very in-depth.
 * Many researchers have made their [**course syllabi for open and reproducible methods**](https://osf.io/vkhbt/) openly available.
 * The [Society for the Improvement of Psychological Science](http://improvingpsych.org/) has collected [**teaching and training materials**](https://osf.io/ehpt4/) in general, as well as a collection of [**modular course materials for research methods**](https://osf.io/zbwr4/wiki/home/). For example, ...
     * The [Collaborative Replications and Education Project](https://osf.io/wfc6u/wiki/home/) provides teaching materials around a set of five studies that undergraduate students can replicate, with the aim of publishing the resulting data when enough has been gathered.
