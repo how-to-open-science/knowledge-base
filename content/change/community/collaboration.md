@@ -1,4 +1,6 @@
-# Which projects is the community working on?
+title: Collaboration
+
+# On which projects is the community working?
 
 * The [**Psychological Science Accelerator**](https://psysciacc.org/) organizes distributed large-scale data collection projects worldwide. It is open to everyone, and its members are positively prolific!
 * [**Study Swap**](https://osf.io/9aj5g/) is an online platform to support collaborative research (with a focus on psychology). It is designed to facilitate any type of exchange, such as requesting or sharing resources and finding collaborators. The project provides a brief [step-by-step guide](https://twitter.com/Study_Swap/status/1016501689959047168) and a [tutorial paper](https://psyarxiv.com/wqhbj/) that describe the process.

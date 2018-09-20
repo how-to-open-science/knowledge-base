@@ -19,10 +19,10 @@ If you have an idea for a new entry, please reach out to [Felix Henninger](http:
     extend the section [ section ], and a good question header would be
     [ question? ]. Would you consider adding a page like this?
 
-    I've done some searching, and I think [ ] would make good resources
+    (*Optionally:* I've done some searching, and I think [ ] would make good resources
     that are relatively stable and cater to the practical needs of our
     fellow researchers. [ I'm extra-awesome and have summarized their
-    main contributions, which are ... ]
+    main contributions, which are ... ])
 
     I understand that we're all super-busy and working hard, so feel
     free to take some time if you need to, but I'd really appreciate to
@@ -81,8 +81,8 @@ and then start a local server to see your changes in action!
 
 ```bash
 $ mkdocs serve
-INFO    -  Building documentation... 
-INFO    -  Cleaning site directory 
+INFO    -  Building documentation...
+INFO    -  Cleaning site directory
 [I 180628 10:57:20 server:292] Serving on http://127.0.0.1:8000
 [I 180628 10:57:20 handlers:59] Start watching changes
 [I 180628 10:57:20 handlers:61] Start detecting changes
