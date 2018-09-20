@@ -1,4 +1,3 @@
-title: Introduction
 
 # Where can I learn more about the issues?
 
@@ -15,5 +14,4 @@ After more than half a decade of discussion, the literature on reproducibility i
 
     Brent Roberts and Dan Simmons have compiled an extensive [**Reproducibility and Replicability Reading List**](https://docs.google.com/document/d/14lBD0aZDPij2Z6AOpAharOAtmt6ZBI0EuF3_tu8m66I/) which lists further literature by topic.
 
-
-
+    The [**Open Research Glossary**](https://docs.google.com/document/d/1uXZzyXPHNcjCPiR5qkzEuB5u2PUIYQzq0mrG9BtD-Qo) by Jon Tennant and Ross Mounce defines key terms used throughout the Open Science movement.
