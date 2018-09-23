@@ -45,6 +45,8 @@ nav:
       - Binding character: 'plan/preregistration/change.md'
       - Teaching: 'plan/preregistration/teaching.md'
     - Registered reports: 'plan/registered-reports.md'
+  - Collecting data:
+    - Tools: 'collect/tools.md'
   - Analysis:
     - Reproducibility: 'analyze/reproducibility.md'
     - Avoiding mistakes: 'analyze/mistakes.md'

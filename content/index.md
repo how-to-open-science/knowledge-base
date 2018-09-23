@@ -54,6 +54,8 @@
 
 ## **Collecting** data
 
+* [Which open **tools** can I use?](collect/tools.md)
+
 ----
 
 ## **Analyzing** data
