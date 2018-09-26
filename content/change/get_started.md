@@ -17,4 +17,4 @@ The amount of information and suggestions you can find when first getting ready 
 
 
 !!! seealso
-    If you feel fully committed to open science practices, you can publicly say so and sign the [**Commitment to Research Transparency**](www.researchtransparency.org).
+    If you feel fully committed to open science practices, you can publicly say so and sign the [**Commitment to Research Transparency**](http://www.researchtransparency.org).
