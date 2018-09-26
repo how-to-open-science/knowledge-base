@@ -1,8 +1,6 @@
-title: uni
-
 # How can I start an Open Science Initiative at my own university?
 
-For starters, you might want to find out, if there is a national network of open-science initiatives in your country (e.g. [NOSI](https://osf.io/tbkzh/) in Germany, or [UK-OSWG](https://osf.io/vgt3x/) in the UK) and get in touch. They will most likely be happy to support you in your endeavour!
+For starters, you might want to find out, if there is a national network of open-science initiatives in your country (e.g. [NOSI](https://osf.io/tbkzh/) in Germany, or [UK-OSWG](https://osf.io/vgt3x/) in the UK) and get in touch.
 
 Other than that, you can turn to these resources
 
