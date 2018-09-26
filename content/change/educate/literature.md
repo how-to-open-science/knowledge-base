@@ -1,5 +1,3 @@
-title: Introduction
-
 After more than half a decade of discussion, the literature on reproducible science is substantial. Thankfully, brave authors have provided summaries and reviews. If you're looking for a place to get started, search no more, we've got you covered!
 
 
