@@ -1,5 +1,3 @@
-title: Start the Change
-
 # How can I personally implement open science practices?
 
 The amount of information and suggestions you can find when first getting ready to transfer to transparent and reproducible reseach can frankly be overwhelming. Efforts have been made to break all the information down into manageable overviews of [which steps you should take first]().
