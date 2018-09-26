@@ -1,5 +1,3 @@
-title: lab
-
 # How can I convince my lab to implement open science practices?
 
 * **Workshops** are often a great way to get your fellow researchers in touch with new methods.
@@ -12,6 +10,6 @@ title: lab
 
 # What should I think of, when I want to transition my lab to open science practices?
 
-The best piece of advice is probably to take it step by step and don't put too much pressure on it. Research is a continuous process, so you can try to implement new practices along the way. (To make that a bit easier, we tried to structure this ressource based on the scientific circle.)
+We think it's totally legitimate to move in small steps. Research is a continuous process, so you can try to implement new practices along the way. (To make that a bit easier, we tried to structure this ressource based on the scientific circle.)
 
 * Some people at the SIPS Meeting 2018 put together some [links to useful resources](https://osf.io/f529n/wiki/home/ ) for transitioning to open science practices in labs.
