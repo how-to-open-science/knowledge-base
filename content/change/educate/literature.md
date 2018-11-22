@@ -9,7 +9,11 @@ After more than half a decade of discussion, the literature on reproducibility i
 * The [Berkeley Initiative for Transparency in the Social Sciences (BITSS)
  ](https://www.bitss.org/) provides a five-week online course on [**Transparent and Open Social Science Research**](https://www.futurelearn.com/courses/open-social-science-research) that covers every step of the research process. Similarly, the [**Open Science MOOC**](https://opensciencemooc.eu/) is developing [course material](https://docs.google.com/document/d/1KuTSECSYHXZmZX15GDjyD65pJ90eRMhHVEZ-1trsw30/edit#) for learning about Open Science, and has collected many interesting links for different topics that often go beyond scholarly articles.
 * The [**Open Science Training Handbook**](https://book.fosteropenscience.eu) is a fantastic and comprehensive resource that covers many topics around open science. It's built for people who would like to create open science training, and very in-depth.
-* Brent Roberts and Dan Simmons have compiled an extensive [**Reproducibility and Replicability Reading List**](https://docs.google.com/document/d/14lBD0aZDPij2Z6AOpAharOAtmt6ZBI0EuF3_tu8m66I/) which lists further literature by topic.
+
+!!! seealso "see also"
+    Crüwell et al. (2018) have put together [**8 Easy Steps to Open Science**](https://psyarxiv.com/cfzyx), an annotated reading list.
+
+    Brent Roberts and Dan Simmons have compiled an extensive [**Reproducibility and Replicability Reading List**](https://docs.google.com/document/d/14lBD0aZDPij2Z6AOpAharOAtmt6ZBI0EuF3_tu8m66I/) which lists further literature by topic.
 
 
 
