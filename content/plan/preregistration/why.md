@@ -10,7 +10,7 @@ Preregistration is all about proving that we don't engage in questionable resear
 
 * [Nuzzo \(2015\)](https://dx.doi.org/10.1038/526182a) highlights the potential for self-deception in research, and summarizes countermeasures \(preregistration being one of them\)
 * [Wagenmakers, Wetzels, Borsboom, van der Mass, and Kievit \(2012\)](https://dx.doi.org/10.1177/1745691612463078) list the different biases that can be introduced into an analysis, and argue that only pre-registered research should be labelled 'confirmatory'.
-* [Simmons, Nelson, and Simonsohn \(2011\)](https://dx.doi.org/10.1177/0956797611417632) demonstrate how flexibility in the analysis inflates the false positive rate by demonstrating that listening to "When I'm sixty-four" by the Beatles rejuvenates participants.
+* [Simmons, Nelson, and Simonsohn \(2011\)](https://dx.doi.org/10.1177/0956797611417632) show how flexibility in the analysis inflates the false positive rate by demonstrating that listening to "When I'm sixty-four" by the Beatles rejuvenates participants.
 * [John, Loewenstein, and Prelec \(2012\)](https://dx.doi.org/10.1177/0956797611430953) estimate the prevalence of _questionable research practices_ such as the above. [Fiedler and Schwarz \(2016\)](https://dx.doi.org/10.1177/1948550615612150) argue that their estimates were inflated and that the issue is less widespread.
 
 ## Preregistration as a solution
@@ -19,5 +19,7 @@ Preregistration is all about proving that we don't engage in questionable resear
 
 * In an open letter, Chambers, Munafo and over 80 signatories argue that [trust in science would be improved by study pre-registration](https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration) \(2013\).
 
-!!! seealso "Registered reports"
+!!! seealso "see also"
     [**Registered reports**](../registered-reports) are a special case of preregistration, where the study plan is peer-reviewed as part of the publication process. They merit [their own entry](../registered-reports).
+
+    Preregistrations can be augmented or supplanted by **alternative methods** that may be more practical. Srivastava (2018) describes these strategies for [**sound inference in complicated research**](https://psyarxiv.com/bwr48).
