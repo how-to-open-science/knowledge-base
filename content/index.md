@@ -90,6 +90,7 @@
 
 * [Can I **share my papers** openly after publication?](disseminate/articles/sharing.md)
 * [What can I do as a reviewer to **encourage open science**?](disseminate/articles/review.md)
+* [What is **open access**?](disseminate/articles/open-access.md)
 
 ### Registered reports
 * [How do **registered reports** work?](plan/registered-reports.md)
