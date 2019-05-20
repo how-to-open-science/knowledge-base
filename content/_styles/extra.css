@@ -8,7 +8,7 @@
 
 /* Equalize padding around content */
 .md-content {
-  padding-bottom: 8rem;
+  padding-bottom: 4rem;
 }
 
 /* Fade out sidebars */
@@ -25,6 +25,10 @@
 }
 
 /* Hero */
+.md-hero {
+  padding: 3rem;
+}
+
 .md-hero a {
   color: rgba(255, 255, 255, 0.75);
 }
@@ -51,12 +55,12 @@
   border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 .md-footer-credits img {
-  margin: 0 0.1rem;
+  margin: 0 0.075rem;
   padding: 0;
-  max-width: 3rem;
-  max-height: 3rem;
-  border-radius: 0.25rem;
-  box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.1);
+  max-width: 1.5rem;
+  max-height: 1.5rem;
+  border-radius: 0.125rem;
+  box-shadow: 0 0 0.125rem rgba(0, 0, 0, 0.1);
 }
 
 /* Footer links */
@@ -69,18 +73,18 @@
 
 /* Creative Commons icons */
 .md-footer-social .fab {
-  font-size: 2.5rem;
+  font-size: 1.25rem;
 }
 
 /* Homepage customization */
 .md-homepage h2 {
   /* Copied from the h3 theme */
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   letter-spacing: -.01em;
 }
 .md-homepage h3 {
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   font-weight: 500;
   letter-spacing: -.005em;
 }
@@ -103,12 +107,12 @@
 @media only screen and (min-width:76.25em) {
   .md-homepage ul {
     column-count: 2;
-    column-gap: 5rem;
+    column-gap: 2.5rem;
   }
   /* Avoid annoying mid-line column breaks
      in firefox with a crude hack */
   .md-homepage ul li:only-child {
-    height: 12rem;
+    height: 8rem;
   }
 }
 
@@ -127,9 +131,14 @@
 
 /* Information boxes */
 .md-typeset .admonition {
-  font-size: 1.5rem;
+  font-size: 0.75rem;
 }
 
 .md-typeset .admonition .admonition-title::before {
   padding-top: 0.1rem;
+}
+
+/* Search box */
+.md-search__inner {
+  margin-right: 0;
 }
