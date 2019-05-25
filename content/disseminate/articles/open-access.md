@@ -1,60 +1,48 @@
-# Open Access Journals and Strategies
+# What is Open Access?
 
-What are Open Access Journals?
-------------------------------
+Open Access ensures that scientific articles are available [free of charge and other barriers](https://open-access.net/DE-EN/information-on-open-access/open-access-journals). This ensures that fellow researchers as well as the public are able to access scientific ideas and results.
 
-According to the open-access.net platform, [open access (OA) journals are…](https://open-access.net/DE-EN/information-on-open-access/open-access-journals)
-
-> … online **journals whose articles are accessible free of charge and other barriers immediately upon publication**. As journals that meet this definition do not require authors to transfer copyright to them, the articles are usually released under an open licence granted by the author. At the same time, there are many journals who make their content available for use free of charge but who do not grant open licences. OA journals are the primary medium of the so-called “gold road to open access.”
-
-Where can I find more information about Open Access Journals?
--------------------------------------------------------------
-
-→ <https://open-access.net/DE-EN/information-on-open-access/open-access-journals/>
-
-→ <https://open-access.net/DE-EN/open-access-in-individual-disciplines/psychology/>
-
-Where can I find Open Access Journals?
---------------------------------------
-
-Central database for Open Access journals is the **Directory of Open
-Access Journals (DOAJ)**
-
-→ <https://doaj.org/>
-
-Alphabetical List of different psychological journals
-
-→ <https://www.psychlinker.de/category.php?cat=292>
-
-Some Examples of Open Access Journals
--------------------------------------
-
-- [Advances in Cognitive Psychology](http://newacp.vizja.pl/en/home)
-- [Archives of Scientific Psychology](http://www.apa.org/pubs/journals/arc/)
-- [Cogprints](http://cogprints.org/view/subjects/psyc.html)
-- [Europe’s Journal of Psychology](http://ejop.psychopen.eu/)
-- [Forum Qualitative Research (FQR)](http://www.qualitative-research.net/index.php/fqs)
-- [Frontiers in Psychology](http://www.frontiersin.org/psychology)
-- [JDDM - Journal of Dynamic Decision Making](https://journals.ub.uni-heidelberg.de/index.php/jddm)
-- [Journal für Psychologie (Online)](http://www.journal-fuer-psychologie.de)
-- [PlosOne](http://www.plosone.org/)
-- [PsycDok](http://psydok.sulb.uni-saarland.de/)
-- [Social Science Open Access Repository](http://www.ssoar.info/) (SSOAR)
-- [Psychological Test and Assessment Modeling](http://www.psychologie-aktuell.com/index.php?id=200)
+!!! seealso "See also"
+    * [**open-access.net**](https://open-access.net) is a treasure trove of information regarding open access, compiled by several German university libraries. We link extensively to their resources below.
+    * The article [Ten **Hot Topics around Scholarly Publishing**](https://www.mdpi.com/2304-6775/7/2/34) tackles common concerns and questions around open access from the perspective of a researcher.
 
 ----
 
-Different Strategies for Open Access
-------------------------------------
+## **Paths** to Open Access
 
-### The golden road – primary publication
+There are two ways or [**strategies to ensure the public availablility of publications**](https://open-access.net/en/information-on-open-access/open-access-strategies/):
 
-By the golden road (gold OA) is meant the primary publication of scientific and scholarly works. This may include articles in [OA journals](https://open-access.net/DE-EN/information-on-open-access/open-access-journals/), [OA monographs](https://open-access.net/DE-EN/information-on-open-access/open-access-for-books/), or contributions to openly accessible edited volumes or conference proceedings.
+* **Gold Open Access** denotes that the published version of an article or book is immediately made openly accessible as part of the publication process.
+* For **Green Open Access**, scientific texts are available freely outside of the publication outlets' platform by the author.  This is also known as _self-archiving_ or _self-publishing_.
 
-### The green road - self-archiving
+### **Gold** Open Access
 
-By the green road (green OA) is meant parallel publication or self-archiving of scientific and scholarly works on private homepages, institute homepages or document servers.
+There are several [**business models**](https://open-access.net/en/information-on-open-access/business-models#c831) for providing Gold OA:
 
-More detailed information about the gold and green OA is available here:
+* Publishers can levy one-time **Article Processing Charges** (APCs) for providing open access to articles.
+* Some journals provide **No-fee Open Access** which is free for authors (sometimes also known as _diamond OA_), largely through institutional funding of journals.
 
-→ <https://open-access.net/DE-EN/information-on-open-access/open-access-strategies/>
+!!! warning "Hybrid models: Per-article OA"
+
+    The gold approach assumes that Open Access is the default for an entire journal rather than an exception on a per-article basis. However, some commercial publishers provide **open access to individual articles**, collecting _both_ APCs and subscription revenue.
+
+    This practice of charging twice is known as **double-dipping**, and while it meets the above definitions in principle, it is controversial because it costs institutions doubly.
+
+----
+
+### **Green** Open Access
+
+For Green OA approaches, the first consideration is _whether_, _when_, and _in which format_, public archival can take place. The main options are:
+
+* A **postprint**, which is identical in content, but not in formatting, to the **published version**, which is typeset by the publisher.
+* **Immediate** publishing or archival following an **embargo** period.
+
+The second question is _where_ to archive papers. Again, there are several possibilities:
+
+* **Domain- or field-specific repositories** that gather paper for a certain field.
+* **Institutional repositories** that collect material for all scientists at a certain institution.
+* A common, though discouraged, practice is to archive papers on **personal homepages**. The difficulty with this approach is that
+
+!!! seealso "More resources"
+
+    * [Am I allowed to **share my papers** openly after publication?](./sharing)
