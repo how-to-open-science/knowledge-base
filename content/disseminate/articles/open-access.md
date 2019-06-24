@@ -45,4 +45,4 @@ The second question is _where_ to archive papers. Again, there are several possi
 
 !!! seealso "More resources"
 
-    * [Am I allowed to **share my papers** openly after publication?](./sharing)
+    * [Am I allowed to **share my papers** openly after publication?](../sharing)
