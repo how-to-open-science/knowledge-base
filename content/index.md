@@ -47,9 +47,6 @@
 ### Registered reports
 * [How do **registered reports** work?](plan/registered-reports.md)
 
-## Open protocol
-* [How should I **document** my research process?](share/open-protocol.md)
-
 ----
 
 ## **Collecting** data
@@ -68,6 +65,9 @@
 ## **Sharing** scientific resources
 
 * [How can I set conditions for the use of my materials? How do **licenses** work?](share/licenses.md)
+
+### Open protocols
+* [How can I share my **research process**?](share/open-protocol.md)
 
 ### Open data
 
