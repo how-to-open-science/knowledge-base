@@ -50,6 +50,17 @@
       </a>
     {% endif %}
   {% endblock %}
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 {% endblock %}
 
 {% block extrahead %}
@@ -69,4 +80,7 @@
   <meta property="og:title" content="How to open.science">
   <meta property="og:description" content="A friendly, practical guide for researchers">
   <meta property="og:image" content="https://how-to-open.science/_theme/branding/social-m.png">
+
+  <!-- Netlify integration -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {% endblock %}
