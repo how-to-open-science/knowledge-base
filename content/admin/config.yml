@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  squash_merges: true
 
 publish_mode: editorial_workflow
 
