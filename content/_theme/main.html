@@ -16,6 +16,7 @@
 {% block hero %}
   {% if page.is_homepage %}
     {% include "partials/hero_homepage.html" with context %}
+    {% include "partials/hero_moving.html" with context %}
     {% include "partials/hero_rainbow.html" with context %}
   {% elif page and page.meta and page.meta.hero %}
     {% include "partials/hero.html" with context %}
