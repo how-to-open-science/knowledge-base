@@ -1,4 +1,2 @@
 mkdocs>=1
 mkdocs-material
-pymdown-extensions==6.2
-Markdown==3.1.1
